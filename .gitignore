@@ -6,6 +6,8 @@
 *.lck
 *.bin
 *.iml
+*.mdx
+*.mdl
 
 /.classpath
 /.project
